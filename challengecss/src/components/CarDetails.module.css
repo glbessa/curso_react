@@ -1,0 +1,13 @@
+.car_details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 10px;
+    padding: 10px;
+
+    background-color: pink;
+
+    text-align: center;
+}
