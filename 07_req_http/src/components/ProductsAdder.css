@@ -1,0 +1,13 @@
+.productsAdder {
+    border: 1px solid black;
+}
+
+.productsAdder form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.productsAdder form>* {
+    margin: 10px 0;
+}
